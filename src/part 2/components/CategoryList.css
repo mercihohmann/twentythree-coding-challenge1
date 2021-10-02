@@ -1,0 +1,8 @@
+.category {
+    background-color: #1bc95b;
+    color: white;
+    padding: 8px 8px 8px 24px;
+    border-bottom: 1px solid #e6e6e6;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+}

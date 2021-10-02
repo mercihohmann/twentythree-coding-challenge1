@@ -1,0 +1,15 @@
+.btn-container {
+    text-align: center;
+}
+
+.btn {
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: #1bc95b;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
